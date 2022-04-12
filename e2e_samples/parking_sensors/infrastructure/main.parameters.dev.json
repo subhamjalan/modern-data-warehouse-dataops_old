@@ -10,6 +10,12 @@
       },
       "enable_monitoring": {
         "value": true
-      }            
+      },
+      "GITHUB_REPO": {
+        "value": "subhamjalan/modern-data-warehouse-dataops"
+      },
+      "GITHUB_PAT_TOKEN": {
+      "value": "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"
+      }      
     }
   }
